@@ -56,8 +56,8 @@ Mass properties were evaluated after applying the material.
 ## Preview
 
 ### Isometric View
-![Isometric View] ![image preview](https://image2url.com/r2/default/images/1769013406195-016e75d0-bb84-4d26-8cda-836ff93df29f.png "Hosted image URL")
+![Isometric View] https://image2url.com/r2/default/images/1769013597998-5910754e-abb3-40ed-b55b-45c8eb706bac.png
 
 ### Mass Properties
-![Mass Properties] ![image preview](https://image2url.com/r2/default/images/1769013491104-297523c2-920d-4edd-b026-95095ce0a3d1.png "Hosted image URL")
+![Mass Properties] https://image2url.com/r2/default/images/1769013491104-297523c2-920d-4edd-b026-95095ce0a3d1.png
 
